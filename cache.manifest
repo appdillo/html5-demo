@@ -1,0 +1,8 @@
+CACHE MANIFEST
+/geo-demo.html
+/background-sprite.png
+/base64.js
+/updateLocation.js
+/validatePurchase.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js
